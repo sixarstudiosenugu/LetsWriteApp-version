@@ -1,6 +1,6 @@
 {
-  "minVersion": "0.1.0",
-  "latestVersion": "0.1.0",
-  "downloadUrl": "https://github.com/YOUR-USER/YOUR-REPO/releases/latest",
+  "minVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "downloadUrl": "https://github.com/sixarstudiosenugu/LetsWriteApp-version/raw/refs/heads/main/app-release.apk",
   "message": "A new version of LetsWrite is required. Your scripts are safe on this device."
 }
