@@ -1,6 +1,6 @@
 {
   "minVersion": "1.0.0",
-  "latestVersion": "2.0.0",
+  "latestVersion": "1.0.1",
   "downloadUrl": "https://github.com/sixarstudiosenugu/LetsWriteApp-version/raw/refs/heads/main/app-release.apk",
   "message": "A new version of LetsWrite is required. Your scripts are safe on this device.",
   "instruction_header": "Your scripts stays on this device.",
