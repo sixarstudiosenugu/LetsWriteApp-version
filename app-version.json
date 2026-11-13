@@ -4,5 +4,5 @@
   "downloadUrl": "https://github.com/sixarstudiosenugu/LetsWriteApp-version/raw/refs/heads/main/app-release.apk",
   "message": "A new version of LetsWrite is required. Your scripts are safe on this device.",
   "instruction_header": "Your scripts stays on this device.",
-  "instruction_body": "Yinstall the new version directly over this one (do not uninstall first) to keep your work intact.",
+  "instruction_body": "Install the new version directly over this one (do not uninstall first) to keep your work intact.",
 }
